@@ -2,7 +2,7 @@
 
 This Code Book will describe the variables and data files used in the exercise. To use this code, just place the run_analysis.R script in a folder and execute it there. The script is designed to pull the data from the internet and unzip it. 
 
-# Dource data
+# Source data
 The source data is human activity data from Samsung phones. Details are available here: 
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
